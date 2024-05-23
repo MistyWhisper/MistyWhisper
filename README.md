@@ -17,3 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MistyWhisper&layout=compact)](https://github.com/MistyWhisper/github-readme-stats)
 
 ![Misty's GitHub stats](https://github-readme-stats.vercel.app/api?username=MistyWhisper&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MistyWhisper&theme=onedark)](https://github.com/MistyWhisper/github-profile-trophy)
