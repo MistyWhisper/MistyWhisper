@@ -27,7 +27,7 @@
 
 :computer:Pursuing opportunities to develop expertise in data analysis and algorithms. Firmly believe that technological advancement should be a catalyst for the progress of whole humanity equally.
 
-:write:Continually developing ideas for articles to publish on my [blog](https://mistywhisper.site/). However, I am working on improving my ability to express myself clearly.
+:bookmark_tabs:Continually developing ideas for articles to publish on my [blog](https://mistywhisper.site/). However, I am working on improving my ability to express myself clearly.
 
 ## Programming Website Account
 ---
