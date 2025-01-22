@@ -1,5 +1,4 @@
 ## MistyWhisper | 渺渺兮予懷
----
 
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=MistyWhisper&layout=compact' width="400px" />
@@ -30,7 +29,6 @@
 :bookmark_tabs:Continually developing ideas for articles to publish on my [blog](https://mistywhisper.site/). However, I am working on improving my ability to express myself clearly.
 
 ## Programming Website Account
----
 
 Blog: https://mistywhisper.site/
 
