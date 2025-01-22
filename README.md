@@ -19,7 +19,7 @@
 </a>
 
 
-:wave:Hi there, I'm MistyWhisper, you could call me Chinese name 渺渺兮予懷 as well.
+:wave:Hi there, I'm MistyWhisper, you could call my Chinese name 渺渺兮予懷 as well.
 
 :mortar_board:Currently enrolled as a student at Beijing Normal University - Hong Kong Baptist University United International College (UIC), where I am pursuing a degree in Artificial Intelligence at the Faculty of Science and Technology.
 
