@@ -4,7 +4,7 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=MistyWhisper&layout=compact' width="400px" />
 </a>
 
->:snake: Battle with python 24/7 :snake:
+>We shall meet in the place where there is no darkness.
 
 :books: Collage Student | :robot: Artificial Intelligence | :arrow_right: Hongkong SAR
 
