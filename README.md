@@ -1,3 +1,12 @@
+<!--
+ * @Descripttion: MistyWhisper Codes
+ * @version: 1.0.0
+ * @Author: MistyWhisper|渺渺兮予懷
+ * @Date: 2025-01-22 22:19:44
+ * @LastEditors: MistyWhisper|渺渺兮予懷
+ * @LastEditTime: 2025-01-26 23:38:40
+ * Copyright (c) 2025 by MistyWhisper, All Rights Reserved. 
+-->
 ## MistyWhisper | 渺渺兮予懷
 
 <a href="#">
@@ -13,12 +22,11 @@
 [![windows11](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)](https://img.shields.io/badge/Windows-11-2376bc?style=flat&logo=microsoft&logoColor=ffffff)  [![debian](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io/badge/Linux%20Debian-FCC624?style=flat&logo=linux&logoColor=black)  [![macos](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)](https://img.shields.io/badge/MacOS-333?style=plastic&logo=apple&logoColor=white)
 
 
+:wave:Hi there, I'm MistyWhisper, you could call my Chinese name 渺渺兮予懷 as well.
+
 <a href="#">
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=MistyWhisper&show_icons=true&theme=transparent' width="400px" />
 </a>
-
-
-:wave:Hi there, I'm MistyWhisper, you could call my Chinese name 渺渺兮予懷 as well.
 
 :mortar_board:Currently enrolled as a student at Beijing Normal University - Hong Kong Baptist University United International College (UIC), where I am pursuing a degree in Artificial Intelligence at the Faculty of Science and Technology.
 
