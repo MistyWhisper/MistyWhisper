@@ -28,7 +28,7 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=MistyWhisper&show_icons=true&theme=transparent' width="400px" />
 </a>
 
-:mortar_board:Currently enrolled as a student at Beijing Normal University - Hong Kong Baptist University United International College (UIC), where I am pursuing a degree in Artificial Intelligence at the Faculty of Science and Technology.
+:mortar_board:Currently enrolled as a student at Beijing Normal - Hong Kong Baptist University (BNBU), where I am pursuing a degree in Artificial Intelligence at the Faculty of Science and Technology.
 
 :sob:Very interested in everything related to computers, but unfortunately my skills are not very good, so I am working hard to learn any useful techniques.
 
